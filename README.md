@@ -25,3 +25,7 @@ For this analysis I used a Pet Products dataset from the Amazon Review datasets 
       Percentage of non-Vine 5-star review: 54.47%
 
 ## Summary
+
+Based on the performed analysis there is no bias and the non-Vine customers gave more 5-star reviews for products compared to the Vine customers. 
+
+To have a clear understanding about the bias I would recommend running the similar analysis on other datasets. Especially it would be a good idea to use datasets with a higher Vine reviews number. 
